@@ -1,0 +1,12 @@
+Security group means it is a firewall:we need to give inbound and outbound  rulestraffic
+To check service is running or not:
+# ps -ef  | grep tomcat it displays the process is running or not
+Git:
+The git command works the place where you initialize
+
+In aws you can run anywhere commands you no need to initialize
+
+AWS :
+Before configuring we need to install sython in our system in linux
+By default in linux python installed, anything above python 2.6.5 or 3.3 + version 
+
